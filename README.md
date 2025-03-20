@@ -1,4 +1,4 @@
-### *<div align="center">Olá! Me chamo Giovanna Santos e sou estudante Full Stack PHP Developer</div>*  
+### *<div align="center">Olá! Me chamo Giovanna Santos e sou estudante Full Stack Phyton</div>*  
   
 
 **<div align="center">🔭Atualmente estou trabalhando na [Katinu Tecnologia](https://katinu.com.br)</div>**  
