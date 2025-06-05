@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="283" src="https://i.postimg.cc/2yMpbmNc/Capa-Perfil-Banner-Linkedin-Moderno-Direito-do-Consumidor-Advogada-Azul-e-Dourado.png"  />
+  <img height="200" src="https://i.postimg.cc/2yMpbmNc/Capa-Perfil-Banner-Linkedin-Moderno-Direito-do-Consumidor-Advogada-Azul-e-Dourado.png"  />
 </div>
 
 ###
@@ -42,7 +42,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=studiocreatemkt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2&custom_title=Lingugens%20mais%20usadas" height="180" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=studiocreatemkt&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=4&order=3" height="77" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=studiocreatemkt&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=4&order=3" height="180" alt="streak graph"  />
 </div>
 
 ###
