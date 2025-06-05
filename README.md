@@ -1,45 +1,85 @@
-# 💫 Coded by Gio
+<div align="center">
+  <img height="283" src="https://i.postimg.cc/2yMpbmNc/Capa-Perfil-Banner-Linkedin-Moderno-Direito-do-Consumidor-Advogada-Azul-e-Dourado.png"  />
+</div>
 
-> _“Transformando linhas de código em experiências que encantam.”_
+###
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=180&section=header&text=Coded%20by%20Gio&fontSize=30&fontColor=ffffff&animation=fadeIn)
+<h3 align="left">Sobre Mim</h3>
 
-### 🎨 Quem sou eu?
+###
 
-Oiê! Eu sou a Giovanna Santos, mas pode me chamar de Gio. 🌟  
-Sou Desenvolvedora Full Stack em formação, Designer Gráfica de coração e entusiasta das boas práticas em UX/UI.  
-Apaixonada por resolver problemas com criatividade e transformar ideias em produtos digitais funcionais e bonitos!
+<img align="right" height="213" src="https://i.postimg.cc/hGrH8Vq7/Made-with-ins-Mind-Chat-GPT-Image-23-de-mai-de-2025-17-21-58-1.png"  />
 
-### 🚀 Tecnologias & Ferramentas
+###
 
-![Java](https://img.shields.io/badge/-Java-E34F26?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-0AC97F?style=flat&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<h4 align="left">Oiê! Eu sou a Gio — mente inquieta, coração designer e alma dev em construção.<br><br>Na interseção entre a lógica do código e a leveza do design, encontrei meu ponto de ignição. Sou movida por propósito, viciada em transformar ideias em experiências memoráveis e apaixonada por criar interfaces que não só funcionam, mas também encantam.<br><br>Com um pé no Java e outro no Figma, caminho entre componentes e cores, entre sprints e cafés.<br><br> Minha marca? Coded by Gio: onde cada byte carrega propósito e cada pixel tem alma.</h4>
 
-### 🧩 Sobre meus projetos
+###
 
-Aqui você encontra um universo de ideias que saíram do papel (ou do Notion 👀) e ganharam vida em repositórios. De APIs em Java até interfaces cheias de identidade visual — sempre com aquele toque de UX que abraça o usuário.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+</div>
 
-### 📌 Em que estou focada agora?
+###
 
-- 🌱 Aprimorando minhas skills em **Spring Boot e APIs REST**
-- 🧠 Estudando **estruturas de dados e algoritmos**
-- 🎨 Criando interfaces no **Figma** e transformando em código com muito amor
-- 📚 Rumo à minha independência tech & financeira!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=studiocreatemkt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2&custom_title=Lingugens%20mais%20usadas" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=studiocreatemkt&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=4&order=3" height="77" alt="streak graph"  />
+</div>
 
-### 🔗 Vamos nos conectar?
+###
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/techandgamesnews)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-6633cc?style=flat&logo=vercel&logoColor=white)](https://seuportfolio.com)
-[![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+<p align="left">_________________________________________________________________________________________________________________________________________________________________________</p>
 
----
+###
 
-🦄 *“Não basta codar... tem que ser com alma, com estilo, com a cara da Gio.”*
+<h3 align="left">🎮 Fun Facts</h3>
 
+###
+
+<p align="left">- 🖤 Amo códigos elegantes e designs limpos.<br>- 🧩 Sempre tentando automatizar até minha vida pessoal (Notion lover 💡).<br>- 🎧 Trabalho melhor com lo-fi + café forte + IDE escura.</p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gisantosux/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/codedbygio" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  </a>
+  <a href="https://www.instagram.com/codedbygio/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=5513991928012&text=Quero+saber+mais%21&type=phone_number&app_absent=0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/studiocreatemkt/studiocreatemkt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/studiocreatemkt/studiocreatemkt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/studiocreatemkt/studiocreatemkt/output/pacman-contribution-graph.svg">
+</picture>
+
+###
