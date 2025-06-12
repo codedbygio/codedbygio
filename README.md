@@ -8,10 +8,6 @@
 
 ###
 
-<img align="right" height="213" src="https://i.postimg.cc/hGrH8Vq7/Made-with-ins-Mind-Chat-GPT-Image-23-de-mai-de-2025-17-21-58-1.png"  />
-
-###
-
 <h4 align="left">Oiê! Eu sou a Gio — mente inquieta, coração designer e alma dev em construção.<br><br>Na interseção entre a lógica do código e a leveza do design, encontrei meu ponto de ignição. Sou movida por propósito, viciada em transformar ideias em experiências memoráveis e apaixonada por criar interfaces que não só funcionam, mas também encantam.<br><br>Com um pé no Java e outro no Figma, caminho entre componentes e cores, entre sprints e cafés.<br><br> Minha marca? Coded by Gio: onde cada byte carrega propósito e cada pixel tem alma.</h4>
 
 ###
@@ -40,14 +36,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=studiocreatemkt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2&custom_title=Lingugens%20mais%20usadas" height="180" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=studiocreatemkt&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=4&order=3" height="180" alt="streak graph"  />
-</div>
+<p align="left">_________________________________________________________________________________________________________________________________________________________________________</p>
 
 ###
 
-<p align="left">_________________________________________________________________________________________________________________________________________________________________________</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbygio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbygio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -76,10 +72,12 @@
 
 ###
 
+<br clear="both">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/studiocreatemkt/studiocreatemkt/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/studiocreatemkt/studiocreatemkt/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/studiocreatemkt/studiocreatemkt/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codedbygio/codedbygio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codedbygio/codedbygio/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codedbygio/codedbygio/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
