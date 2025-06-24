@@ -1,83 +1,75 @@
-<div align="center">
-  <img height="200" src="https://i.postimg.cc/2yMpbmNc/Capa-Perfil-Banner-Linkedin-Moderno-Direito-do-Consumidor-Advogada-Azul-e-Dourado.png"  />
+
+
+<h1 align="center" style="color: #F9C300;">@codedbygio</h1>
+
+<p align="center">
+  <strong>Front-End Developer</strong> & <strong>UX/UI Designer</strong> <br>
+  Criando experiências digitais elegantes, responsivas e centradas no usuário.
+</p>
+
+---
+
+## ✨ Sobre mim
+
+Olá! Sou a Giovanna Teixeira dos Santos, desenvolvedora front-end e UX/UI designer com foco em interfaces funcionais e visualmente impactantes.  
+Atualmente trabalho com tecnologias modernas como React e Tailwind CSS, sempre aplicando os princípios do design centrado no usuário.
+
+---
+
+## 💼 Habilidades & Skills
+
+- UX/UI Design (Figma, Adobe XD, heurísticas, usabilidade)
+- Design System & Prototipação
+- Desenvolvimento Web Responsivo
+- JavaScript moderno (ES6+)
+- Integração com APIs REST
+
+---
+
+## 🛠️ Tecnologias & Linguagens
+
+<div style="display: flex; gap: 8px; flex-wrap: wrap">
+
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
 </div>
 
-###
+---
 
-<h3 align="left">Sobre Mim</h3>
+## 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codedbygio&show_icons=true&theme=radical&icon_color=F9C300&title_color=F9C300&text_color=ffffff&bg_color=000000">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbygio&layout=compact&theme=radical&title_color=F9C300&text_color=ffffff&bg_color=000000">
+</p>
 
-<h4 align="left">Oiê! Eu sou a Gio — mente inquieta, coração designer e alma dev em construção.<br><br>Na interseção entre a lógica do código e a leveza do design, encontrei meu ponto de ignição. Sou movida por propósito, viciada em transformar ideias em experiências memoráveis e apaixonada por criar interfaces que não só funcionam, mas também encantam.<br><br>Com um pé no Java e outro no Figma, caminho entre componentes e cores, entre sprints e cafés.<br><br> Minha marca? Coded by Gio: onde cada byte carrega propósito e cada pixel tem alma.</h4>
+---
 
-###
+## 🔗 Onde me encontrar
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-</div>
-
-###
-
-<p align="left">_________________________________________________________________________________________________________________________________________________________________________</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedbygio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codedbygio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="left">🎮 Fun Facts</h3>
-
-###
-
-<p align="left">- 🖤 Amo códigos elegantes e designs limpos.<br>- 🧩 Sempre tentando automatizar até minha vida pessoal (Notion lover 💡).<br>- 🎧 Trabalho melhor com lo-fi + café forte + IDE escura.</p>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gisantosux/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/codedbygio">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.behance.net/codedbygio" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  <a href="https://instagram.com/codedbygio">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/codedbygio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://behance.net/codedbygio">
+    <img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=5513991928012&text=Quero+saber+mais%21&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://site-cbg.vercel.app">
+    <img src="https://img.shields.io/badge/-Portfólio-black?style=for-the-badge&logo=web&logoColor=white" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codedbygio/codedbygio/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codedbygio/codedbygio/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codedbygio/codedbygio/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<p align="center">✨ Let's build something amazing together! ✨</p>
